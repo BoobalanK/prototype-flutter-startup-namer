@@ -1,2 +1,0 @@
-# prototype-flutter-startup-namer
- 
